@@ -14,7 +14,7 @@ passion for technology and drive to excel across multiple domains. I focus on bu
 🎓 Computer Science Student  [UG]
 🤖 Exploring Machine Learning and AI  
 🌱 Building an **Micro-Plastic Detection System using IoT sensors**  
-🏴‍☠️ Active participant in **Hacakthons and CTF competitions **  
+🏴‍☠️ Active participant in **Hacakthons and CTF competitions**  
 💡 Love solving real-world problems with code  
 
 ---
@@ -93,7 +93,7 @@ Machine learning classification model predicting passenger survival using histor
 
 ### 🏴‍☠️ Cybersecurity
 
-🔹 **HackCyros 2.0 CTF  **
+🔹 **HackCyros 2.0 CTF**
 
 Topics covered:
 - OSINT
