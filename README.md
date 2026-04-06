@@ -1,7 +1,7 @@
 <h1 align="center">Hello there 👋, I'm Robins Yadav</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Vibe+Coder;Open+Source+Learner;Full+Stack+Developer;Linux Operation;CTF+Player;&center=true&width=500&height=50">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Vibe+Coder;CTF+Player;Open+Source+Learner;Linux+Operations;Full+Stack+Developer;&center=true&width=500&height=50">
 </p>
 
 <p align="center">
