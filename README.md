@@ -127,8 +127,9 @@ Repository includes solutions and methodology for solving challenges.
 ---
 
 ### ✍️ Daily Quotes
+<div align="center">
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
+</div>
 ---
 
 ⭐ *Always grinding & Moving step forward at everything.*
