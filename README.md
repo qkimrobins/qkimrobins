@@ -50,6 +50,8 @@ passion for technology and drive to excel across multiple domains. I focus on bu
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=qkimrobins&theme=tokyonight">
 </p>
+<br>
+<img src="https://komarev.com/ghpvc/?username=qkimrobins&label=Profile%20Views&color=blue&style=flat">
 
 ---
 
@@ -124,9 +126,8 @@ Repository includes solutions and methodology for solving challenges.
 
 ---
 
-# 👀 Profile Visitors
-
-<img src="https://komarev.com/ghpvc/?username=qkimrobins&label=Profile%20Views&color=blue&style=flat">
+### ✍️ Daily Quotes
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 
