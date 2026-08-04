@@ -4,25 +4,16 @@
 
 **Full-Stack Developer · CTF Player · AI & Machine Learning Enthusiast**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/qkimrobins)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/qkimrobins)
-[![Profile Views](https://komarev.com/ghpvc/?username=qkimrobins&color=0A66C2&style=for-the-badge)](https://github.com/qkimrobins)
-
 <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=500&duration=3500&pause=1000&color=0A66C2&center=true&vCenter=true&width=600&height=50&lines=Full-Stack+Developer;CTF+Player;Open+Source+Learner;Machine+Learning+Explorer;Linux+Operations" />
 
----
+
 
 ## 🚀 About Me
 
-Computer Science undergraduate with a passion for building **real-world solutions** and a drive to explore across multiple domains instead of settling for one. Actively participating in **hackathons & CTF competitions**, and currently building a **Micro-Plastic Detection System** using IoT sensors.
+<p align=justify>CS undergrad & multi-domain builder solving real-world challenges through code. Currently developing an OpenCV-powered Smart Attendance System, while diving deep into Machine Learning and AI. Active hackathon participant and CTF competitor driven to explore, innovate, and engineer impactful solutions across tech.
+</p>
 
-- 🎓 Computer Science Student (UG)
-- 🧠 Exploring **Machine Learning & AI**
-- 👤 Building a **Smart Attendance System** using face recognition (OpenCV)
-- 🏆 Active participant in **Hackathons & CTF Competitions**
-- ⚡ Love solving real-world problems with code
 
----
 
 ## 🛠 Tech Stack
 
@@ -57,14 +48,10 @@ Computer Science undergraduate with a passion for building **real-world solution
 
 ## 📈 GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=qkimrobins&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qkimrobins&layout=compact&theme=tokyonight&hide_border=true" height="180" />
-</p>
+![](https://github-readme-stats.shion.dev/api?username=qkimrobins&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=qkimrobins&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=qkimrobins&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=qkimrobins&theme=tokyonight&hide_border=true" />
-</p>
 
 ---
 
