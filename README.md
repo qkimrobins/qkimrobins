@@ -78,6 +78,26 @@
         </a>
       </p>
     </td>
+    <td width="50%">
+      <h3 align="center">👤 AI Notes Summarizer</h3>
+      <p align="center">A student-first web app that turns long, messy study notes into a complete revision pack in seconds. Paste notes or upload a PDF, and get a concise summary, revision bullet points, an easy explanation, glossary terms, flashcards, a quiz, a concept map, sticky-note reminders, and study tips.</p>
+      <p align="center"><strong>Tools:</strong> HTML · Javascript · Artificial Intelligence</p>
+      <p align="center">
+        <a href="https://github.com/qkimrobins/AI_Notes_Summarizer">
+          <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+      </p>
+    </td>
+     <td width="50%">
+      <h3 align="center">🤖 Microplastics Detection System</h3>
+      <p align="center">Machine learning classification model predicting passenger survival using historical Titanic dataset.</p>
+      <p align="center"><strong>Tools:</strong> IoT · ESP32 · Sensors · Artificial Intelligence </p>
+      <p align="center">
+        <a href="https://github.com/qkimrobins/SIH_2024">
+          <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+      </p>
+    </td>
   </tr>
   <tr>
     <td colspan="2">
