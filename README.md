@@ -48,9 +48,8 @@
 
 ## 📈 GitHub Analytics
 
-![](https://github-readme-stats.shion.dev/api?username=qkimrobins&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=qkimrobins&theme=dark&hide_border=false)<br/>
 
+[![GitHub Stats](https://ghstats.dev/api/card?username=qkimrobins\&theme=catppuccin\&hide=trend%2Cavg%2Cactive_day%2Cgrade%2Ccontributions%2Crepos%2Cfollowers\&custom_title=Stats\&border_radius=10)](https://github.com/qkimrobins)
 
 ---
 
