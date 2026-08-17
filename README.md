@@ -108,8 +108,6 @@
         <strong>OSINT · Forensics · Reverse Engineering · Steganography · Feature Decoding</strong>.
         Repository includes solutions and methodologies.
       </p>
-      
-    </td>
   </tr>
 </table>
 
