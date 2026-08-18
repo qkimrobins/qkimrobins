@@ -2,7 +2,7 @@
 
 # 👨‍💻 Robins Yadav
 
-**Full-Stack Developer · CTF Player · AI & Machine Learning Enthusiast**
+**Full-Stack Developer · CTF Player · AI & Machine Learning · Tech Enthusiast**
 
 <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=500&duration=3500&pause=1000&color=0A66C2&center=true&vCenter=true&width=600&height=50&lines=Full-Stack+Developer;CTF+Player;Open+Source+Learner;Machine+Learning+Explorer;Linux+Operations" />
 
